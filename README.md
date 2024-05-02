@@ -5,7 +5,7 @@
 </p>
 
 <h3>What is Nitro Speed ?</h3>
-<p>Nitro Speed is a series of easy-medium contests focuses mainly on boasting thinking and coding speed mainly for <b>New Comers & Level 1 Trainees</b>. Any one is welcomed to participate as well</p>
+<p>Nitro Speed is a series of easy-medium contests focusing mainly on boasting thinking and coding speed for <b>New Comers & Level 1 Trainees</b>. Anyone is welcome to participate as well</p>
 
 <h3>Groups Links:</h3>
 
